@@ -1,0 +1,160 @@
+{
+  "type": "FeatureCollection",
+  "name": "Amber Finding Spots – Europe",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hel Peninsula (Poland)",
+        "description": "Amber often washes up along the beaches between Władysławowo and Hel, especially after storms."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.8000, 54.6500]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gdańsk – Amber Capital (Poland)",
+        "description": "Historic amber trading city with nearby beaches where amber can still be found."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.6466, 54.3520]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jantar Beach (Poland)",
+        "description": "Named after amber itself ('jantar' means amber); known for frequent finds."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.0283, 54.3352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palanga Beach (Lithuania)",
+        "description": "Amber can be found on this Baltic Sea beach, especially after storms; home to the Amber Museum."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.0667, 55.9167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jūrmala (Latvia)",
+        "description": "Resort town near Riga; amber occasionally washes up along the sandy coast."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.7500, 56.9667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blåvand Beach (Denmark)",
+        "description": "Excellent amber-hunting beach; finders often visit after winter storms."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.0833, 55.5500]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rømø Island (Denmark)",
+        "description": "Wide sandy beaches where amber is found mixed with seaweed; popular with hobbyists."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5667, 55.1333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sankt Peter-Ording (Germany)",
+        "description": "Amber sometimes found along this North Sea coast, especially after storms."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6333, 54.3167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Binz, Rügen Island (Germany)",
+        "description": "Baltic Sea island known for natural amber and fossil finds along the beach."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.6167, 54.4000]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Usedom Island (Germany/Poland border)",
+        "description": "Amber occasionally washes ashore on this island; accessible from Świnoujście."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.1000, 53.9500]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skagen (Denmark, northern tip)",
+        "description": "Amber can sometimes be found where the North and Baltic Seas meet."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.5833, 57.7200]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sopot Beach (Poland)",
+        "description": "Tourist beach between Gdańsk and Gdynia; occasional amber finds."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.5670, 54.4416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ventspils Beach (Latvia)",
+        "description": "Wide sandy beach with occasional amber pieces, especially after storms."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.5667, 57.4000]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niechorze Beach (Poland)",
+        "description": "Baltic Sea coast west of Kołobrzeg; amber sometimes found after storms."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.0833, 54.0833]
+      }
+    }
+  ]
+}
